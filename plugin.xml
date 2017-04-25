@@ -11,8 +11,10 @@
     </engines>
     <platform name="ios">
       <config-file target="*-Info.plist">
+          <dict>
               <key>CFBundleAllowMixedLocalizations</key>
               <true/>
+          </dict>
       </config-file>
     </platform>
 </plugin>
