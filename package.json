@@ -1,17 +1,17 @@
 {
-  "name": "cordova-plugin-transport-security",
-  "version": "0.1.2",
-  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
-  "description": "Cordova / PhoneGap Plugin to allow 'Arbitrary Loads' by adding a declaration to the Info.plist file to bypass the iOS 9 App Transport Security",
+  "name": "cordova-plugin-allow-mixed-localization",
+  "version": "0.0.1",
+  "author": "faouzane BATIGA",
+  "description": "Cordova / PhoneGap Plugin to allow localized buttons on keyboards and other native components",
   "cordova": {
-    "id": "cordova-plugin-transport-security",
+    "id": "cordova-plugin-allow-mixed-localization",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecrossley/cordova-plugin-transport-security.git"
+    "url": "git+https://github.com/enyosolutions/cordova-plugin-allow-mixed-localization.git"
   },
   "keywords": [
     "cordova",
@@ -37,7 +37,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leecrossley/cordova-plugin-transport-security/issues"
+    "url": "https://github.com/enyosolutions/cordova-plugin-allow-mixed-localization/issues"
   },
-  "homepage": "https://github.com/leecrossley/cordova-plugin-transport-security#readme"
+  "homepage": "https://github.com/enyosolutions/cordova-plugin-allow-mixed-localization#readme"
 }
