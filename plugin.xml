@@ -10,11 +10,8 @@
         <engine name="cordova" version=">=3.0.0"/>
     </engines>
     <platform name="ios">
-      <config-file target="*-Info.plist">
-          <dict>
-              <key>CFBundleAllowMixedLocalizations</key>
-              <true/>
-          </dict>
-      </config-file>
+        <config-file target="*-Info.plist" parent="CFBundleAllowMixedLocalizations">
+            <true/>
+        </config-file>
     </platform>
 </plugin>
